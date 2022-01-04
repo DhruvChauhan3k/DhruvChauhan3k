@@ -2,7 +2,7 @@
 - 👀 I’m interested in Webdevelopment And DSA
 - 🌱 I’m currently learning Webdevelopment And DSA
 - 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me instagram: dhruv._.chauhan
+- 📫 Reach me on instagram: dhruv._.chauhan
 
 <!---
 DhruvChauhan3k/DhruvChauhan3k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
